@@ -3,10 +3,10 @@
 #include <utility>
 #include <list>
 
-#define PRINT_BOTH
-// PRINT_BOTH - Prints both push and pop
-// PRINT_PUSH - Prints push only
-// PRINT_POP  - Prints pop only
+//#define PRINT_BOTH
+// PRINT_BOTH - Prints both push and pop activities
+// PRINT_PUSH - Prints push activity only
+// PRINT_POP  - Prints pop activity only	
 //
 
 class StackForQuiz
